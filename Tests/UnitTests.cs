@@ -54,9 +54,6 @@ namespace GithubActionsLab
             Assert.Throws<ArgumentNullException>(() => Program.Multiply(null, "1"));
             Assert.Throws<ArgumentNullException>(() => Program.Multiply(null, null));
         }
-
-        ntNullException>(() => Program.Divide(null, null));
-        }
         
     }
 }
