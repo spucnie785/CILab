@@ -4,7 +4,7 @@ using NUnit.Framework;
 namespace GithubActionsLab
 {
     [TestFixture]
-    public class MathTestsPuc
+    public class MathTests
     {
         [Test]
         public void Add_Valid()
